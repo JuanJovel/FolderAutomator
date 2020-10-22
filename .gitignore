@@ -21,6 +21,7 @@
 
 # Package Files #
 *.jar
+!FolderAutomator.jar
 *.war
 *.nar
 *.ear
