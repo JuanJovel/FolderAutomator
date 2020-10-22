@@ -1,0 +1,8 @@
+TO CREATE A SHORTCUT TO RUN THIS JAR IN THE CONSOLE:
+
+Open Notepad and type the following:
+java -jar FolderAutomator.jar
+
+Save the Notepad as a .bat file in the same folder as the JAR file.
+
+Now you can run the application by double-cliking the .bat file and you can create a shortcut to the .bat in any other folder.
