@@ -1,2 +1,3 @@
 # FolderAutomator
- Java console application to create folder with subfolder faster (Windows only)
+FolderAutomator is a Java console application that makes it easy and fast to create folder with subfolder in a specific path.
+FolderAutomator only works on machines running Windows.
